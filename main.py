@@ -1,1 +1,2 @@
-impoet time
+import time
+
