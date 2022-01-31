@@ -1,2 +1,2 @@
 # Tutorial
-Pycharm Tutorial exercise
+Pycharm Tutorial exercise open and reliable 
