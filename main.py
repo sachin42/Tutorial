@@ -25,9 +25,9 @@ lost_font = pygame.font.SysFont('arial', 45)
 word = ''
 buttons = []
 guessed = []
-hangmanPics = [pygame.image.load('hangman0.bmp'), pygame.image.load('hangman1.bmp'), pygame.image.load('hangman2.bmp'),
-               pygame.image.load('hangman3.bmp'), pygame.image.load('hangman4.bmp'), pygame.image.load('hangman5.bmp'),
-               pygame.image.load('hangman6.bmp')]
+hangmanPics = [pygame.image.load('hangman0.png'), pygame.image.load('hangman1.png'), pygame.image.load('hangman2.png'),
+               pygame.image.load('hangman3.png'), pygame.image.load('hangman4.png'), pygame.image.load('hangman5.png'),
+               pygame.image.load('hangman6.png')]
 
 limbs = 0
 
